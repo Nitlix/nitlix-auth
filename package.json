@@ -1,0 +1,17 @@
+{
+    "name": "nitlix-auth",
+    "version": "1.0.0",
+    "description": "🎉 Simple packaged auth.",
+    "main": "./dist/exports.js",
+    "keywords": [],
+    "author": "NITLIX HOLDINGS LTD.",
+    "license": "MIT",
+    "dependencies": {
+        "@types/crypto-js": "^4.2.2",
+        "axios": "^1.7.2",
+        "crypto-js": "^4.2.0"
+    },
+    "devDependencies": {
+        "@types/node": "^20.14.11"
+    }
+}
